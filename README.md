@@ -1,7 +1,6 @@
 # control_the_screen_with_hand
 
-[image.png](https://postimg.cc/RNDx25mg.png)
-
+[image](https://i.postimg.cc/2SzjbrKN/image.png)
 I am sure many of you also have thought about creating this kind of project: Controlling your computer with your hand☝️
 
 Based on my imagination, I replaced the basic functions of a mouse with my hand. My index finger and middle finger are left and right buttons respectively.
