@@ -1,6 +1,6 @@
 # control_the_screen_with_hand
 
-[image.png](https://postimg.cc/RNDx25mg)
+[image.png](https://postimg.cc/RNDx25mg.png)
 
 I am sure many of you also have thought about creating this kind of project: Controlling your computer with your hand☝️
 
